@@ -50,6 +50,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+rag_ml_chatbot/
 
 # Translations
 *.mo
