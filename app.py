@@ -9,9 +9,9 @@ from langchain_classic.chains.combine_documents import create_stuff_documents_ch
 from langchain_core.prompts import ChatPromptTemplate
 
 from src.helper import get_embedding
-from src.prompt import *
 from src.prompts import *
-from store import docs
+from src.prompts import *
+from vector_store import docs
 
 app = Flask(__name__)
 
