@@ -1,8 +1,9 @@
 Flask
-langchain-openai
 langchain
 langchain-community
 python-dotenv
 sentence-transformers
 pypdf
 faiss-cpu
+langchain_google_genai
+langchain-text-splitters
